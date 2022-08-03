@@ -15,12 +15,13 @@
 }
 
 body{
-    background-color: rgb(51, 0, 0);
+    background-color: rgb(48, 48, 48);
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 5rem;
+    height: 100vh;
 }
 
 #calc{
@@ -43,20 +44,18 @@ body{
 
 #previous-operation,
 #current-operation{
-    min-height: 3rem;
+    min-height: 1.6em;
     overflow-wrap: break-word;
+    padding: 0.2em;
 }
-
 
 #previous-operation{
     color: rgb(169, 169, 169);
     font-size: 1.8rem;
-    padding: .2rem;
 }
 
 #current-operation{
     font-size: 4rem;
-    padding: .4rem .4rem 1rem;
 }
 
 #buttons-container{
@@ -90,4 +89,13 @@ body{
 
 #buttons-container #equal-btn:hover{
     background-color: rgb(0, 95, 127);
+}
+
+@media screen and (max-width: 490px){
+    body{
+        padding: 1rem;
+    }
+    #buttons-container button{
+        height: 4.4em;
+    }
 }

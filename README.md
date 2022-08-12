@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <a href="#-rodar-pagina-odontocare">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodar-pagina-calculadora">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
@@ -15,10 +15,10 @@
 
 <br>
 
-### [🌐 Rodar pagina OdontoCare](https://mateuss18.github.io/NLW-Return_OdontoCare/)
-<img src="/assets/Imagem_demonstração.png">
-<img src="/assets/README_desktop_GIF.gif">
-<img src="/assets/README_mobile_GIF.gif">
+### [🌐 Rodar pagina Calculadora](https://mateuss18.github.io/Calculadora/)
+<img src="/assets/Imagem_demonstrativa.png">
+<img src="/assets/README_desktop.gif">
+<img src="/assets/README_mobile.gif">
 
 >
 ---
